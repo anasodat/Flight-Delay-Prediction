@@ -1,0 +1,11 @@
+
+pre.fe.dataset/
+RAW.dataset/
+
+*.csv
+
+__pycache__/
+venv/
+.env
+
+.DS_Store
